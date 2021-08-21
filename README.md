@@ -1,3 +1,13 @@
+# Beach Resort Room Booking Frontend
+
+I have learned so may this while building this project such as:
+
+1. Use of react-router-dom to navigate through different pages.
+2. UseSate Hook in the react
+3. useEffect Hook in the react
+4. ContextAPI for managing the state of the Application
+5. Used Contentful for storing all the data and retrieving from their platform.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
